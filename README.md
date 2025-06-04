@@ -1,4 +1,4 @@
-# Resp Mamak
+# Resep Mamak
 
 Sebagai penuntasan tugas UUK Tahun 2025 semester genap
 Carisa Rahmanda Ryanti / XI PPLG
